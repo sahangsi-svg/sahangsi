@@ -1,0 +1,6 @@
+{
+  "name": "당수초 X 경기클로버 환경실천 챌린지",
+  "description": "당수초등학교와 경기도 교육청 클로버가 함께하는 13가지 환경실천 챌린지 및 학급별 실천 인증 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
